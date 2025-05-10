@@ -40,7 +40,6 @@ Originally assigned to analyze vowel recordings using Fourier Transforms, this p
 
 * `ravdess_mfcc_pipeline.py`: Extracts MFCC features from RAVDESS
 * `train_model.ipynb`: Training, evaluation, and model saving
-* `inference_pipeline.py`: CLI-based prediction on new files
 * `inference.ipynb`: Notebook for interactive inference
 
 ## How It Relates to Fourier Transform
